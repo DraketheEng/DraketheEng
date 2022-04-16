@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Ege Can Ağırbaş, aka @DraketheEng.
+<h3 align="center">Drake The Engineer Self taught web developer from Turkey.</h3>
 
-<h3 align="center">Self taught web developer from Turkey.</h3>
+
+- 👋 Hi, I’m Ege Can Ağırbaş, aka @DraketheEng.
 
 - 🔭 I’m currently working on **a Pizza Delivery App.**
 
