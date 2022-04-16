@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Ege Can Ağırbaş, aka @DraketheEng.
 
+<h3 align="center">Self taught web developer from Turkey.</h3>
+
 - 🔭 I’m currently working on **a Pizza Delivery App.**
 
 - 🌱 I’m currently learning **SQL databases and Entity Framework. Also I will learn Angular in the future.**
