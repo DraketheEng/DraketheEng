@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Can Ağırbaş, aka @DraketheEng.
 
-- 🔭 I’m currently working on **a Pizza Delivery App.**
+- 🔭 I’m currently working on **my own Web Site for CV.**
 
 - 🌱 I’m currently learning **SQL databases and Entity Framework. Also I will learn Angular in the future.**
 
