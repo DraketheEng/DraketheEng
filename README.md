@@ -1,6 +1,6 @@
 <h3 align="center">Drake The Engineer Self taught web developer from Turkey.</h3>
 
-Hi 👋, I'm Can Ağırbaş, aka @DraketheEng</h1>
+- Hi 👋, I'm Can Ağırbaş, aka @DraketheEng</h1>
 
 - 🔭 I’m currently working on **a YouTube Clone with HTML-CSS.**
 
