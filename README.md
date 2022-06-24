@@ -2,7 +2,7 @@
 
 - Hi 👋, I'm Can Ağırbaş, aka @DraketheEng</h1>
 
-- 🔭 I’m currently working on **a YouTube Clone with HTML-CSS.**
+- 🔭 I’m currently working on **a Pizza Delivery Web Site.**
 
 - 🌱 I’m currently learning **Angular.**
 
